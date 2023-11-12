@@ -1,0 +1,14 @@
+file_type: csv
+dataset_name: file
+file_name: custom_1988_2020
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - year_month
+      - export_1_import_2
+      - HS_code
+      - customs
+      - country
+      - quantity
+      - value(yen)
